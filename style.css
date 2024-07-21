@@ -1,0 +1,49 @@
+ul{
+    list-style:none;
+    display:flex;
+    gap: 36px;
+    margin-left:59%;
+    margin-top:4%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+}
+body{
+    background-image: url(https://www.cgarchitect.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ0hEIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d8d5ac5d25e6a5a2942e433aadf9477c894e4d2c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9VY21WemFYcGxYM1J2WDJ4cGJXbDBXd2RwQWxZRk1Eb0tjMkYyWlhKN0Jqb01jWFZoYkdsMGVXbGsiLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--a140f81341e053a34b77dbf5e04e777cacb11aff/7466c4ec.jpg);
+}
+h1{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    font-size: 59px;
+    padding-left: 30%;
+    padding-top: 5%;
+}
+p{
+    color: white;
+    font-size: 15px; 
+    padding-left: 34%;
+}
+button{
+   
+    border-radius: 20px;
+   width: 10%;
+   height: 35px;
+   color: rgb(0, 0, 0);
+   text-align: center;
+   border-color: rgb(69, 187, 69);
+}
+ button #b1{  
+    border-radius: 20px;
+   width: 10%;
+   height: 35px;
+   color: rgb(0, 0, 0);
+   text-align: center;
+   border-color: rgb(69, 187, 69);
+   margin-right: 35%;
+  
+   
+}
+
+
+
+
+
